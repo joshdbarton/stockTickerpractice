@@ -14,7 +14,6 @@ const finAdvise = Object.create({}, {
         value: 'John Stockbroker'
     },
     Portfolio: {
-        // enumerable: true,
         writable: true,
         value: {
         }
