@@ -17,9 +17,6 @@ const finAdvise = Object.create({}, {
         // enumerable: true,
         writable: true,
         value: {
-            AAPL: {shares: 5000, price: 76},
-            GOOG: {shares: 6400, price: 55},
-            MSFT: {shares: 4300, price: 97}
         }
     },
     Worth: {
